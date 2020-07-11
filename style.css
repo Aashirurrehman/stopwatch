@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(78, 11, 11);
+    background-image: url('Bg.jpg');
+  }
+
+
+
+  h1{
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Berkshire Swash', cursive;
+    color: white;
+    text-shadow:black;
+  }
+
+
+  .container {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+
+  #timerLabel {
+    margin: 100px 0px;
+    color:white;
+  }
+
+
+  .myButton {
+    width: 180px;
+    height: 100px;
+    border: none;
+    border-radius: 16px;
+    background-color:rgb(73, 8, 8);
+    font-size: 16px;
+  outline: none;
+  }
+
+
+   .myButton {
+    font-family: 'Berkshire Swash', cursive;
+    color: white;
+  }
+
+
+ 
